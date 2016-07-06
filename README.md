@@ -1,4 +1,3 @@
 # hello-world
-
-editing 
-First Repo 
+My First Repo
+#DevNamanGupta
